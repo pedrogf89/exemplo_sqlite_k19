@@ -1,3 +1,3 @@
 exemplo_sqlite_k19
 ==================
-Teste de readme
+Teste de readme funcionando.
